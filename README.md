@@ -1,2 +1,2 @@
 # Physics-Graphing
-Python graphing for Electrostatics and Magnetism
+Python Graphing for Electrostatics and Magnetism
